@@ -1,0 +1,69 @@
+{
+  "showcase": [
+    {
+      "id": "showcase_1",
+      "src": "/videos/video1.mp4",
+      "title": "Beauty Tutorial",
+      "views": "2.5M",
+      "platform": "TikTok",
+      "description": "Un aperçu authentique de la vie quotidienne, capturé avec une esthétique minimaliste et moderne.",
+      "tags": ["#beauty", "#tutorial", "#viral"]
+    },
+    {
+      "id": "showcase_2", 
+      "src": "/videos/video2.mp4",
+      "title": "Dance Challenge",
+      "views": "1.8M",
+      "platform": "YouTube Shorts",
+      "description": "Une chorégraphie énergique et tendance, parfaitement synchronisée avec les derniers hits.",
+      "tags": ["#dance", "#challenge", "#trending"]
+    },
+    {
+      "id": "showcase_3", 
+      "src": "/videos/video1.mp4",
+      "title": "Lifestyle Vlog",
+      "views": "1.2M",
+      "platform": "Instagram Reels",
+      "description": "Un jour dans la vie d'un créateur de contenu, montrant les coulisses de la création vidéo.",
+      "tags": ["#lifestyle", "#vlog", "#behindthescenes"]
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "portfolio_1",
+      "title": "Lifestyle Vlog",
+      "category": "YouTube Shorts",
+      "thumbnail": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&q=80&w=800",
+      "videoUrl": "/videos/video1.mp4",
+      "description": "Un aperçu authentique de la vie quotidienne, capturé avec une esthétique minimaliste et moderne.",
+      "tags": ["#lifestyle", "#vlog", "#daily"]
+    },
+    {
+      "id": "portfolio_2",
+      "title": "Dance Challenge",
+      "category": "TikTok",
+      "thumbnail": "https://images.unsplash.com/photo-1547153760-18fc86324498?auto=format&fit=crop&q=80&w=800",
+      "videoUrl": "/videos/video2.mp4",
+      "description": "Une chorégraphie énergique et tendance, parfaitement synchronisée avec les derniers hits.",
+      "tags": ["#dance", "#challenge", "#viral"]
+    },
+    {
+      "id": "portfolio_3",
+      "title": "Fashion Lookbook",
+      "category": "Instagram Reels",
+      "thumbnail": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=800",
+      "videoUrl": "/videos/video2.mp4",
+      "description": "Collection de styles tendance pour la saison, présentée dans un format dynamique et engageant.",
+      "tags": ["#fashion", "#style", "#reels"]
+    },
+    {
+      "id": "portfolio_4",
+      "title": "Recette Express",
+      "category": "Facebook Reels",
+      "thumbnail": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?auto=format&fit=crop&q=80&w=800",
+      "videoUrl": "/videos/video1.mp4",
+      "description": "Une recette simple et rapide, parfaite pour les réseaux sociaux.",
+      "tags": ["#cooking", "#recipe", "#food"]
+    }
+  ]
+}

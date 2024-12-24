@@ -1,0 +1,27 @@
+{
+  "email": "albertkengne2000@gmail.com",
+  "phone": "+237 6 59 07 08 72",
+  "location": "Bayangam, Cameroun",
+  "socialMedia": {
+    "tiktok": {
+      "url": "",
+      "enabled": false
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/albert_g_kengne/profilecard/?igsh=cWZ1cGhrY3RubDkx",
+      "enabled": true
+    },
+    "facebook": {
+      "url": "",
+      "enabled": false
+    },
+    "youtube": {
+      "url": "youtube.com/channel/UCnLesk2bBBnTy_62va5cxpw?sub_confirmation=1",
+      "enabled": true
+    },
+    "twitter": {
+      "url": "",
+      "enabled": false
+    }
+  }
+}
